@@ -1,0 +1,374 @@
+2021-11-25 10:22:07.153 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 10:22:07.154 | INFO     | __main__:more_line:737 - someline启动线程
+2021-11-25 10:24:17.014 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 10:24:17.016 | INFO     | __main__:more_line:738 - someline启动线程
+2021-11-25 10:24:24.185 | INFO     | __main__:more_line:745 - 第1次循环执行test_case02用例
+2021-11-25 10:24:24.188 | INFO     | __main__:more_line:748 - 第1次循环thread_list--》：[[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t3': datetime.date(2021, 10, 15)}}]]
+2021-11-25 10:24:24.191 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 10:24:24.192 | INFO     | __main__:more_line:751 - -------------------------
+2021-11-25 10:24:24.192 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 10:24:24.208 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-15).xlsx
+2021-11-25 10:24:24.208 | INFO     | __main__:save_data:694 - thread_list=[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t3': datetime.date(2021, 10, 15)}}]
+2021-11-25 10:24:24.209 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 10:24:24.245 | ERROR    | __main__:save_function1:679 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 10:24:24.246 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 10:24:24.255 | INFO     | __main__:save_data:710 - save_function1数据保存成功
+2021-11-25 10:24:24.294 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 10:24:24.294 | INFO     | __main__:more_line:753 - None
+2021-11-25 10:24:24.295 | INFO     | __main__:more_line:756 - 本次程序运行开始时间为：10:24:17,结束时间为：10:24:24
+2021-11-25 10:24:24.296 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：more_line
+2021-11-25 10:27:26.001 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 10:27:26.002 | INFO     | __main__:more_line:738 - someline启动线程
+2021-11-25 10:27:32.430 | INFO     | __main__:more_line:745 - 第1次循环执行test_case02用例
+2021-11-25 10:27:32.432 | INFO     | __main__:more_line:748 - 第1次循环thread_list--》：[[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t3': datetime.date(2021, 10, 15)}}]]
+2021-11-25 10:27:32.435 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 10:27:32.435 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 10:27:32.436 | INFO     | __main__:more_line:751 - -------------------------
+2021-11-25 10:27:32.452 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-15).xlsx
+2021-11-25 10:27:32.452 | INFO     | __main__:save_data:694 - thread_list=[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t3': datetime.date(2021, 10, 15)}}]
+2021-11-25 10:27:32.453 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 10:27:32.461 | ERROR    | __main__:save_function1:679 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 10:27:32.462 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 10:27:32.474 | INFO     | __main__:save_data:710 - save_function1数据保存成功
+2021-11-25 10:27:32.523 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 10:27:32.524 | INFO     | __main__:more_line:753 - None
+2021-11-25 10:27:32.525 | INFO     | __main__:more_line:756 - 本次程序运行开始时间为：10:27:26,结束时间为：10:27:32
+2021-11-25 10:27:32.525 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：more_line
+2021-11-25 10:28:42.988 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 10:28:42.989 | INFO     | __main__:more_line:738 - someline启动线程
+2021-11-25 10:28:51.100 | INFO     | __main__:more_line:745 - 第1次循环执行test_case02用例
+2021-11-25 10:28:51.102 | INFO     | __main__:more_line:748 - 第1次循环thread_list--》：[[datetime.date(2021, 10, 13), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}], [datetime.date(2021, 10, 14), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}], [datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]]
+2021-11-25 10:28:51.104 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 10:28:51.105 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 10:28:51.105 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 10:28:51.106 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 10:28:51.106 | INFO     | __main__:more_line:751 - -------------------------
+2021-11-25 10:28:51.108 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 10:28:51.108 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 10:28:51.134 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-14).xlsx
+2021-11-25 10:28:51.136 | INFO     | __main__:save_data:694 - thread_list=[datetime.date(2021, 10, 14), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 10:28:51.140 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 10:28:51.143 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-15).xlsx
+2021-11-25 10:28:51.145 | INFO     | __main__:save_data:694 - thread_list=[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 10:28:51.146 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 10:28:51.150 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-13).xlsx
+2021-11-25 10:28:51.150 | INFO     | __main__:save_data:694 - thread_list=[datetime.date(2021, 10, 13), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 10:28:51.152 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 10:28:51.160 | ERROR    | __main__:save_function1:679 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 10:28:51.161 | ERROR    | __main__:save_function1:679 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 10:28:51.161 | ERROR    | __main__:save_function1:679 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 10:28:51.162 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 10:28:51.163 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 10:28:51.163 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 10:28:51.173 | INFO     | __main__:save_data:710 - save_function1数据保存成功
+2021-11-25 10:28:51.189 | INFO     | __main__:save_data:710 - save_function1数据保存成功
+2021-11-25 10:28:51.200 | INFO     | __main__:save_data:710 - save_function1数据保存成功
+2021-11-25 10:28:51.283 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 10:28:51.290 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 10:28:51.291 | INFO     | __main__:more_line:753 - None
+2021-11-25 10:28:51.292 | INFO     | __main__:more_line:753 - None
+2021-11-25 10:28:51.296 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 10:28:51.297 | INFO     | __main__:more_line:753 - None
+2021-11-25 10:28:51.298 | INFO     | __main__:more_line:756 - 本次程序运行开始时间为：10:28:42,结束时间为：10:28:51
+2021-11-25 10:28:51.298 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：more_line
+2021-11-25 10:45:11.459 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 10:45:11.460 | INFO     | __main__:more_line:738 - someline启动线程
+2021-11-25 10:45:22.466 | INFO     | __main__:more_line:745 - 第1次循环执行test_case02用例
+2021-11-25 10:45:22.468 | INFO     | __main__:more_line:748 - 第1次循环thread_list--》：[[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t3': datetime.date(2021, 10, 15)}}]]
+2021-11-25 10:45:22.470 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 10:45:22.471 | INFO     | __main__:more_line:751 - -------------------------
+2021-11-25 10:45:22.471 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 10:45:22.484 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-15).xlsx
+2021-11-25 10:45:22.484 | INFO     | __main__:save_data:694 - thread_list=[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t3': datetime.date(2021, 10, 15)}}]
+2021-11-25 10:45:22.485 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2461
+2021-11-25 10:45:22.485 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 10:45:22.494 | ERROR    | __main__:save_function1:679 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 10:45:22.495 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 10:45:22.504 | INFO     | __main__:save_data:710 - save_function1数据保存成功
+2021-11-25 10:45:22.546 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 10:45:22.547 | INFO     | __main__:more_line:753 - None
+2021-11-25 10:45:22.547 | INFO     | __main__:more_line:756 - 本次程序运行开始时间为：10:45:11,结束时间为：10:45:22
+2021-11-25 10:45:22.548 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：more_line
+2021-11-25 10:49:25.698 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 10:49:25.699 | INFO     | __main__:more_line:736 - someline启动线程
+2021-11-25 10:49:36.289 | INFO     | __main__:more_line:743 - 第1次循环执行test_case02用例
+2021-11-25 10:49:36.292 | INFO     | __main__:more_line:746 - 第1次循环thread_list--》：[[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t3': datetime.date(2021, 10, 15)}}]]
+2021-11-25 10:49:36.294 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 10:49:36.295 | INFO     | __main__:more_line:749 - -------------------------
+2021-11-25 10:49:36.295 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 10:49:36.308 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-15).xlsx
+2021-11-25 10:49:36.308 | INFO     | __main__:save_data:692 - thread_list=[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t3': datetime.date(2021, 10, 15)}}]
+2021-11-25 10:49:36.309 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2461
+2021-11-25 10:49:36.309 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 10:49:36.317 | ERROR    | __main__:save_function1:677 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 10:49:36.318 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 10:49:36.329 | INFO     | __main__:save_data:708 - save_function1数据保存成功
+2021-11-25 10:49:36.362 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 10:49:36.362 | INFO     | __main__:more_line:751 - None
+2021-11-25 10:49:36.363 | INFO     | __main__:more_line:754 - 本次程序运行开始时间为：10:49:25,结束时间为：10:49:36
+2021-11-25 10:49:36.363 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：more_line
+2021-11-25 10:51:47.676 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 10:51:47.677 | INFO     | __main__:more_line:736 - someline启动线程
+2021-11-25 10:51:53.519 | INFO     | __main__:more_line:743 - 第1次循环执行test_case02用例
+2021-11-25 10:51:53.521 | INFO     | __main__:more_line:746 - 第1次循环thread_list--》：[[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t3': datetime.date(2021, 10, 15)}}]]
+2021-11-25 10:51:53.523 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 10:51:53.523 | INFO     | __main__:more_line:749 - -------------------------
+2021-11-25 10:51:53.524 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 10:51:53.537 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-15).xlsx
+2021-11-25 10:51:53.537 | INFO     | __main__:save_data:692 - thread_list=[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t3': datetime.date(2021, 10, 15)}}]
+2021-11-25 10:51:53.538 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2407
+2021-11-25 10:51:53.539 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 10:51:53.546 | ERROR    | __main__:save_function1:677 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 10:51:53.547 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 10:51:53.558 | INFO     | __main__:save_data:708 - save_function1数据保存成功
+2021-11-25 10:51:53.591 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 10:51:53.591 | INFO     | __main__:more_line:751 - None
+2021-11-25 10:51:53.592 | INFO     | __main__:more_line:754 - 本次程序运行开始时间为：10:51:47,结束时间为：10:51:53
+2021-11-25 10:51:53.592 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：more_line
+2021-11-25 10:54:16.928 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 10:54:16.929 | INFO     | __main__:more_line:734 - someline启动线程
+2021-11-25 10:54:22.706 | INFO     | __main__:more_line:741 - 第1次循环执行test_case02用例
+2021-11-25 10:54:22.707 | INFO     | __main__:more_line:744 - 第1次循环thread_list--》：[[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t3': datetime.date(2021, 10, 15)}}]]
+2021-11-25 10:54:22.710 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 10:54:22.712 | INFO     | __main__:more_line:747 - -------------------------
+2021-11-25 10:54:22.712 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 10:54:22.724 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-15).xlsx
+2021-11-25 10:54:22.724 | INFO     | __main__:save_data:690 - thread_list=[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t3': datetime.date(2021, 10, 15)}}]
+2021-11-25 10:54:22.725 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2473
+2021-11-25 10:54:22.725 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 10:54:22.735 | ERROR    | __main__:save_function1:675 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 10:54:22.736 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 10:54:22.746 | INFO     | __main__:save_data:706 - save_function1数据保存成功
+2021-11-25 10:54:22.780 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 10:54:22.780 | INFO     | __main__:more_line:749 - None
+2021-11-25 10:54:22.781 | INFO     | __main__:more_line:752 - 本次程序运行开始时间为：10:54:16,结束时间为：10:54:22
+2021-11-25 10:54:22.781 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：more_line
+2021-11-25 11:11:15.510 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 11:11:15.510 | INFO     | __main__:more_line:734 - someline启动线程
+2021-11-25 11:11:22.628 | INFO     | __main__:more_line:741 - 第1次循环执行test_case03用例
+2021-11-25 11:11:22.630 | INFO     | __main__:more_line:744 - 第1次循环thread_list--》：[[datetime.date(2021, 10, 18), {'name': '无线弱覆盖场景测试', 'address': {'l1': ['成都市武侯区棕树东街1号锦官秀城', '成都市武侯区科华南路1号蓝天小区', '成都市武侯区天和路69号皇城花卉', '成都市锦江区翠柳湾支路199号蓝光凯丽香江'], 'l2': ['成都市锦江区三色路163号银海芯座', '成都市锦江区榕声路锦馨家园-A区锦馨家园', '成都市武侯区高攀西巷4号科华南苑', '成都市武侯区锦绣街7号锦苑']}, 'testdate': {'t1': datetime.date(2021, 10, 18), 't2': datetime.date(2021, 10, 19)}}], [datetime.date(2021, 10, 19), {'name': '无线弱覆盖场景测试', 'address': {'l1': ['成都市武侯区棕树东街1号锦官秀城', '成都市武侯区科华南路1号蓝天小区', '成都市武侯区天和路69号皇城花卉', '成都市锦江区翠柳湾支路199号蓝光凯丽香江'], 'l2': ['成都市锦江区三色路163号银海芯座', '成都市锦江区榕声路锦馨家园-A区锦馨家园', '成都市武侯区高攀西巷4号科华南苑', '成都市武侯区锦绣街7号锦苑']}, 'testdate': {'t1': datetime.date(2021, 10, 18), 't2': datetime.date(2021, 10, 19)}}]]
+2021-11-25 11:11:22.633 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 11:11:22.634 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 11:11:22.635 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 11:11:22.635 | INFO     | __main__:more_line:747 - -------------------------
+2021-11-25 11:11:22.636 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 11:11:22.659 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线弱覆盖场景测试(2021-10-18).xlsx
+2021-11-25 11:11:22.662 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线弱覆盖场景测试(2021-10-19).xlsx
+2021-11-25 11:11:22.662 | INFO     | __main__:save_data:690 - thread_list=[datetime.date(2021, 10, 18), {'name': '无线弱覆盖场景测试', 'address': {'l1': ['成都市武侯区棕树东街1号锦官秀城', '成都市武侯区科华南路1号蓝天小区', '成都市武侯区天和路69号皇城花卉', '成都市锦江区翠柳湾支路199号蓝光凯丽香江'], 'l2': ['成都市锦江区三色路163号银海芯座', '成都市锦江区榕声路锦馨家园-A区锦馨家园', '成都市武侯区高攀西巷4号科华南苑', '成都市武侯区锦绣街7号锦苑']}, 'testdate': {'t1': datetime.date(2021, 10, 18), 't2': datetime.date(2021, 10, 19)}}]
+2021-11-25 11:11:22.662 | INFO     | __main__:save_data:690 - thread_list=[datetime.date(2021, 10, 19), {'name': '无线弱覆盖场景测试', 'address': {'l1': ['成都市武侯区棕树东街1号锦官秀城', '成都市武侯区科华南路1号蓝天小区', '成都市武侯区天和路69号皇城花卉', '成都市锦江区翠柳湾支路199号蓝光凯丽香江'], 'l2': ['成都市锦江区三色路163号银海芯座', '成都市锦江区榕声路锦馨家园-A区锦馨家园', '成都市武侯区高攀西巷4号科华南苑', '成都市武侯区锦绣街7号锦苑']}, 'testdate': {'t1': datetime.date(2021, 10, 18), 't2': datetime.date(2021, 10, 19)}}]
+2021-11-25 11:11:22.663 | INFO     | __main__:testing_num:149 - 无线弱覆盖场景测试运行次数为：2437
+2021-11-25 11:11:22.664 | INFO     | __main__:testing_num:149 - 无线弱覆盖场景测试运行次数为：2449
+2021-11-25 11:11:22.665 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 11:11:22.665 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 11:11:22.678 | ERROR    | __main__:save_function1:675 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 11:11:22.678 | ERROR    | __main__:save_function1:675 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 11:11:22.679 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 11:11:22.680 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 11:11:22.691 | INFO     | __main__:save_data:706 - save_function1数据保存成功
+2021-11-25 11:11:22.706 | INFO     | __main__:save_data:706 - save_function1数据保存成功
+2021-11-25 11:11:22.770 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 11:11:22.771 | INFO     | __main__:more_line:749 - None
+2021-11-25 11:11:22.774 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 11:11:22.775 | INFO     | __main__:more_line:749 - None
+2021-11-25 11:11:22.776 | INFO     | __main__:more_line:752 - 本次程序运行开始时间为：11:11:15,结束时间为：11:11:22
+2021-11-25 11:11:22.776 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：more_line
+2021-11-25 11:24:53.051 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 11:24:53.052 | INFO     | __main__:more_line:737 - someline启动线程
+2021-11-25 11:24:59.511 | INFO     | __main__:more_line:744 - 第1次循环执行test_case02用例
+2021-11-25 11:24:59.513 | INFO     | __main__:more_line:747 - 第1次循环thread_list--》：[[datetime.date(2021, 10, 13), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}], [datetime.date(2021, 10, 14), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}], [datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]]
+2021-11-25 11:24:59.516 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 11:24:59.517 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 11:24:59.517 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 11:24:59.518 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 11:24:59.518 | INFO     | __main__:more_line:750 - -------------------------
+2021-11-25 11:24:59.519 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 11:24:59.519 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 11:24:59.547 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-15).xlsx
+2021-11-25 11:24:59.547 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 11:24:59.548 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2491
+2021-11-25 11:24:59.550 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 11:24:59.555 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-14).xlsx
+2021-11-25 11:24:59.558 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 14), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 11:24:59.558 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-13).xlsx
+2021-11-25 11:24:59.560 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2473
+2021-11-25 11:24:59.560 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 13), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 11:24:59.561 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 11:24:59.562 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2497
+2021-11-25 11:24:59.563 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 11:24:59.572 | ERROR    | __main__:save_function1:678 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 11:24:59.572 | ERROR    | __main__:save_function1:678 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 11:24:59.573 | ERROR    | __main__:save_function1:678 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 11:24:59.574 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 11:24:59.574 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 11:24:59.575 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 11:24:59.584 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 11:24:59.594 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 11:24:59.609 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 11:24:59.667 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 11:24:59.669 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 11:24:59.670 | INFO     | __main__:more_line:752 - None
+2021-11-25 11:24:59.670 | INFO     | __main__:more_line:752 - None
+2021-11-25 11:24:59.671 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 11:24:59.672 | INFO     | __main__:more_line:752 - None
+2021-11-25 11:24:59.673 | INFO     | __main__:more_line:755 - 本次程序运行开始时间为：11:24:53,结束时间为：11:24:59
+2021-11-25 11:24:59.673 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：more_line
+2021-11-25 11:28:50.338 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 11:28:50.338 | INFO     | __main__:more_line:737 - someline启动线程
+2021-11-25 11:28:58.401 | INFO     | __main__:more_line:744 - 第1次循环执行test_case02用例
+2021-11-25 11:28:58.403 | INFO     | __main__:more_line:747 - 第1次循环thread_list--》：[[datetime.date(2021, 10, 13), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}], [datetime.date(2021, 10, 14), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}], [datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]]
+2021-11-25 11:28:58.405 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 11:28:58.406 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 11:28:58.406 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 11:28:58.407 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 11:28:58.408 | INFO     | __main__:more_line:750 - -------------------------
+2021-11-25 11:28:58.409 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 11:28:58.409 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 11:28:58.435 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-15).xlsx
+2021-11-25 11:28:58.440 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-13).xlsx
+2021-11-25 11:28:58.440 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 11:28:58.442 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 13), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 11:28:58.443 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2491
+2021-11-25 11:28:58.445 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-14).xlsx
+2021-11-25 11:28:58.446 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2449
+2021-11-25 11:28:58.447 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 11:28:58.448 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 14), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 11:28:58.448 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 11:28:58.449 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2479
+2021-11-25 11:28:58.452 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 11:28:58.459 | ERROR    | __main__:save_function1:678 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 11:28:58.460 | ERROR    | __main__:save_function1:678 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 11:28:58.461 | ERROR    | __main__:save_function1:678 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 11:28:58.462 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 11:28:58.462 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 11:28:58.462 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 11:28:58.473 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 11:28:58.481 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 11:28:58.492 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 11:28:58.568 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 11:28:58.591 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 11:28:58.595 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 11:28:58.595 | INFO     | __main__:more_line:752 - None
+2021-11-25 11:28:58.596 | INFO     | __main__:more_line:752 - None
+2021-11-25 11:28:58.596 | INFO     | __main__:more_line:752 - None
+2021-11-25 11:28:58.597 | INFO     | __main__:more_line:755 - 本次程序运行开始时间为：11:28:50,结束时间为：11:28:58
+2021-11-25 11:28:58.598 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：more_line
+2021-11-25 11:30:31.801 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 11:30:31.802 | INFO     | __main__:more_line:737 - someline启动线程
+2021-11-25 11:30:44.066 | INFO     | __main__:more_line:744 - 第1次循环执行test_case02用例
+2021-11-25 11:30:44.069 | INFO     | __main__:more_line:747 - 第1次循环thread_list--》：[[datetime.date(2021, 10, 13), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}], [datetime.date(2021, 10, 14), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}], [datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]]
+2021-11-25 11:30:44.071 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 11:30:44.072 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 11:30:44.073 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 11:30:44.073 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 11:30:44.074 | INFO     | __main__:more_line:750 - -------------------------
+2021-11-25 11:30:44.074 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 11:30:44.075 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 11:30:44.101 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-13).xlsx
+2021-11-25 11:30:44.103 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 13), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 11:30:44.105 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2449
+2021-11-25 11:30:44.109 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 11:30:44.114 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-14).xlsx
+2021-11-25 11:30:44.116 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-15).xlsx
+2021-11-25 11:30:44.117 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 14), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 11:30:44.118 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 11:30:44.119 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2473
+2021-11-25 11:30:44.119 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2449
+2021-11-25 11:30:44.121 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 11:30:44.122 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 11:30:44.127 | ERROR    | __main__:save_function1:678 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 11:30:44.128 | ERROR    | __main__:save_function1:678 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 11:30:44.128 | ERROR    | __main__:save_function1:678 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 11:30:44.129 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 11:30:44.129 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 11:30:44.129 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 11:30:44.140 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 11:30:44.149 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 11:30:44.158 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 11:30:44.212 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 11:30:44.212 | INFO     | __main__:more_line:752 - None
+2021-11-25 11:30:44.214 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 11:30:44.217 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 11:30:44.217 | INFO     | __main__:more_line:752 - None
+2021-11-25 11:30:44.218 | INFO     | __main__:more_line:752 - None
+2021-11-25 11:30:44.218 | INFO     | __main__:more_line:755 - 本次程序运行开始时间为：11:30:31,结束时间为：11:30:44
+2021-11-25 11:30:44.219 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：more_line
+2021-11-25 12:20:14.687 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 12:20:14.688 | INFO     | __main__:more_line:737 - someline启动线程
+2021-11-25 12:20:17.991 | INFO     | __main__:more_line:744 - 第1次循环执行test_case02用例
+2021-11-25 12:20:17.993 | INFO     | __main__:more_line:747 - 第1次循环thread_list--》：[[datetime.date(2021, 10, 13), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}], [datetime.date(2021, 10, 14), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}], [datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]]
+2021-11-25 12:20:17.996 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 12:20:17.997 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 12:20:17.997 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 12:20:17.998 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 12:20:17.999 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 12:20:17.999 | INFO     | __main__:more_line:750 - -------------------------
+2021-11-25 12:20:18.000 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 12:20:18.024 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-13).xlsx
+2021-11-25 12:20:18.025 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 13), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 12:20:18.027 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2455
+2021-11-25 12:20:18.028 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 12:20:18.030 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-14).xlsx
+2021-11-25 12:20:18.031 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 14), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 12:20:18.032 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2455
+2021-11-25 12:20:18.033 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 12:20:18.039 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-15).xlsx
+2021-11-25 12:20:18.040 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 12:20:18.040 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2437
+2021-11-25 12:20:18.042 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 12:20:18.050 | ERROR    | __main__:save_function1:678 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 12:20:18.052 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 12:20:18.052 | ERROR    | __main__:save_function1:678 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 12:20:18.062 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 12:20:18.062 | ERROR    | __main__:save_function1:678 - 基本，优，弱网，热岛保存方法-->save_function1:'datetime.date' object has no attribute 'sleep'
+2021-11-25 12:20:18.062 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 12:20:18.063 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 12:20:18.073 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 12:20:18.081 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 12:20:18.135 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 12:20:18.136 | INFO     | __main__:more_line:752 - None
+2021-11-25 12:20:18.137 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 12:20:18.139 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 12:20:18.139 | INFO     | __main__:more_line:752 - None
+2021-11-25 12:20:18.140 | INFO     | __main__:more_line:752 - None
+2021-11-25 12:20:18.140 | INFO     | __main__:more_line:755 - 本次程序运行开始时间为：12:20:14,结束时间为：12:20:18
+2021-11-25 12:20:18.141 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：more_line
+2021-11-25 12:26:29.439 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 12:27:14.543 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 12:28:31.923 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 12:28:46.558 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：more_line
+2021-11-25 12:28:46.559 | INFO     | __main__:more_line:737 - someline启动线程
+2021-11-25 12:28:55.323 | INFO     | __main__:more_line:744 - 第1次循环执行test_case02用例
+2021-11-25 12:28:55.325 | INFO     | __main__:more_line:747 - 第1次循环thread_list--》：[[datetime.date(2021, 10, 13), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}], [datetime.date(2021, 10, 14), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}], [datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]]
+2021-11-25 12:28:55.328 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 12:28:55.329 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 12:28:55.329 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 12:28:55.330 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_data
+2021-11-25 12:28:55.330 | INFO     | __main__:more_line:750 - -------------------------
+2021-11-25 12:28:55.330 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 12:28:55.330 | INFO     | __main__:save_file:176 - D:/PyCharm/PY/MiguTemplate/mobileTicket\test_mode\四川省端到端媒体质量优化分析-用例模板.xlsx
+2021-11-25 12:28:55.356 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-15).xlsx
+2021-11-25 12:28:55.362 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 15), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 12:28:55.362 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-13).xlsx
+2021-11-25 12:28:55.363 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2455
+2021-11-25 12:28:55.364 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 13), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 12:28:55.364 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 12:28:55.365 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2419
+2021-11-25 12:28:55.367 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 12:28:55.370 | INFO     | __main__:save_file:182 - F:\端到端\工单\调试\四川省端到端媒体质量优化分析-无线热岛场景测试(2021-10-14).xlsx
+2021-11-25 12:28:55.371 | INFO     | __main__:save_data:693 - thread_list=[datetime.date(2021, 10, 14), {'name': '无线热岛场景测试', 'address': {'l1': ['成都市武侯区天顺路66号天府名居', '成都市锦江区琉璃路123号央湖名邸', '成都市锦江区华润路158号华润·翡翠城-4期', '成都市锦江区琉璃路661号香江花园'], 'l2': ['成都市锦江区晨辉北路3号金红苑', '成都市锦江区经天路3号东方阳光城', '成都市锦江区经天西路88号沙河嘉苑', '成都市锦江区锦华路二段755号东晶丽苑'], 'l3': ['成都市锦江区锦华路三段181号锦绣阳光', '成都市锦江区净居寺西街111号青房·云上', '成都市锦江区三官堂街18号望江嘉苑', '成都市锦江区河心路1号锦江东湖花园']}, 'testdate': {'t1': datetime.date(2021, 10, 13), 't2': datetime.date(2021, 10, 14), 't3': datetime.date(2021, 10, 15)}}]
+2021-11-25 12:28:55.371 | INFO     | __main__:testing_num:149 - 无线热岛场景测试运行次数为：2473
+2021-11-25 12:28:55.375 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:26 - 开始调用函数：save_function1
+2021-11-25 12:33:19.422 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 12:33:25.885 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 12:33:31.834 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_function1
+2021-11-25 12:33:36.162 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 12:33:50.431 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 12:33:54.963 | INFO     | __main__:save_data:709 - save_function1数据保存成功
+2021-11-25 12:33:56.440 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 12:33:56.441 | INFO     | __main__:more_line:752 - None
+2021-11-25 12:33:56.478 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 12:33:56.503 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：save_data
+2021-11-25 12:33:56.504 | INFO     | __main__:more_line:752 - None
+2021-11-25 12:33:56.504 | INFO     | __main__:more_line:752 - None
+2021-11-25 12:33:56.505 | INFO     | __main__:more_line:755 - 本次程序运行开始时间为：12:28:46,结束时间为：12:33:56
+2021-11-25 12:33:56.505 | INFO     | PY.MiguTemplate.businessIntegration.COMPATIBILITY_TEST:inner:28 - 结束调用函数：more_line
